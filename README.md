@@ -1,6 +1,6 @@
 ### Olá, eu sou o Neto Milfont!
 
-- 🌱 Atualmente estou estudando JavaScript, CSS e HTML.
+- 🌱 Atualmente estou estudando alguns hooks novos do React
 - 😄 Pronomes: Ele/Dele.
 
 <div align="center">
