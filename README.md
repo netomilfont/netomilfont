@@ -1,6 +1,6 @@
 ### Olá, eu sou o Neto Milfont!
 
-- 🌱 Atualmente estou estudando Python.
+- 🌱 Atualmente estou estudando Python e Django.
 - 😄 Pronomes: Ele/Dele.
 
 <div align="center">
