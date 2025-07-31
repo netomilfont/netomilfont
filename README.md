@@ -1,6 +1,6 @@
 ### Olá, eu sou o Neto Milfont!
 
-- 🌱 Atualmente estou estudando Next.js e Blockchain.
+- 🌱 Atualmente estou estudando Next.js.
 - 😄 Pronomes: Ele/Dele.
 
 <div align="center">
